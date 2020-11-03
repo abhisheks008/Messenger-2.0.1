@@ -35,3 +35,8 @@ Fill all the requirements and attach the GUI code in the main file just copy and
 
 #### Remember :
 One thing should be remembered that the internet will be on while sending the message because it's completely based on the internet without which it can't process the request and it will show that the error has occured. 
+
+**Here are some images that the messages have sent to the recipients',**
+<img src = "sms.png">
+
+These kind of messages will be received at the recipients'' end. As the messages are sent by the internet and they are system generated.
