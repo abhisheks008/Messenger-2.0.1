@@ -7,6 +7,8 @@ In this Python project I have created a Messenger which can send the sms to the 
 
 _Here's the whole documentation for the project <a href = "https://github.com/abhisheks008/Messenger-2.0.1/blob/main/Messenger%20Documentation.docx"> Click Here </a>_
 
+<img src = "wall.png" width = '400' height = '250'>
+
 
 The project work has two parts, the first one is the coding part with the Python programming language and second one is creating the GUI of the project to make it more attractive. Firstly I am going to talk about the Main coding part and what are the components and resources used to this.
 
