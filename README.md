@@ -4,6 +4,7 @@ In this Python project I have created a Messenger which can send the sms to the 
 
 ## Sending Messages using Python Programming language
 ### Prepared by, Abhishek Sharma
+*******************************************************************************************
 
 _Here's the whole documentation for the project <a href = "https://github.com/abhisheks008/Messenger-2.0.1/blob/main/Messenger%20Documentation.docx"> Click Here </a>_
 
@@ -42,3 +43,10 @@ One thing should be remembered that the internet will be on while sending the me
 <img src = "sms.png">
 
 These kind of messages will be received at the recipients'' end. As the messages are sent by the internet and they are system generated.
+
+### Thank You!
+
+# abhisheks008
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+
